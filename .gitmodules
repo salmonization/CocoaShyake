@@ -1,0 +1,3 @@
+[submodule "shyake"]
+	path = shyake
+	url = git@github.com:salmonization/shyake.git
